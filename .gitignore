@@ -5,6 +5,9 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# Annoying mac file
+.DS_Store
+
 # Visual Studio cache directory
 .vs/
 
